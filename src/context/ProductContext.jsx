@@ -2,10 +2,15 @@ import React, { createContext, useContext, useState, useEffect } from 'react';
 import localProducts from '../data/products.json';
 
 const ProductContext = createContext();
-const PRODUCTS_STORAGE_KEY = 'luma-products-v2';
+const PRODUCTS_STORAGE_KEY = 'luma-products-v3';
 
 const hasImagePairs = (items) =>
-  Array.isArray(items) && items.every((product) => product.imageOff && product.imageOn);
+  Array.isArray(items) && items.every((product) =>
+    product.imageOff &&
+    product.imageOn &&
+    !product.imageOff.endsWith('.svg') &&
+    !product.imageOn.endsWith('.svg')
+  );
 
 export const ProductProvider = ({ children }) => {
   const [products, setProducts] = useState(() => {

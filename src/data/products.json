@@ -14,8 +14,8 @@
     },
     "rating": 4.6,
     "reviewsCount": 18,
-    "imageOff": "/products/luma-001-off.svg",
-    "imageOn": "/products/luma-001-on.svg"
+    "imageOff": "/products/asteria-off.png",
+    "imageOn": "/products/asteria-on.png"
   },
   {
     "id": "luma-002",
@@ -32,8 +32,8 @@
     },
     "rating": 4.7,
     "reviewsCount": 21,
-    "imageOff": "/products/luma-002-off.svg",
-    "imageOn": "/products/luma-002-on.svg"
+    "imageOff": "/products/nora-off.png",
+    "imageOn": "/products/nora-on.png"
   },
   {
     "id": "luma-003",
@@ -50,8 +50,8 @@
     },
     "rating": 4.8,
     "reviewsCount": 24,
-    "imageOff": "/products/luma-003-off.svg",
-    "imageOn": "/products/luma-003-on.svg"
+    "imageOff": "/products/linea-off.png",
+    "imageOn": "/products/linea-on.png"
   },
   {
     "id": "luma-004",
@@ -68,8 +68,8 @@
     },
     "rating": 4.8,
     "reviewsCount": 27,
-    "imageOff": "/products/luma-004-off.svg",
-    "imageOn": "/products/luma-004-on.svg"
+    "imageOff": "/products/halo-off.png",
+    "imageOn": "/products/halo-on.png"
   },
   {
     "id": "luma-005",
@@ -86,8 +86,8 @@
     },
     "rating": 4.9,
     "reviewsCount": 30,
-    "imageOff": "/products/luma-005-off.svg",
-    "imageOn": "/products/luma-005-on.svg"
+    "imageOff": "/products/mika-off.png",
+    "imageOn": "/products/mika-on.png"
   },
   {
     "id": "luma-006",
@@ -104,8 +104,8 @@
     },
     "rating": 4.6,
     "reviewsCount": 33,
-    "imageOff": "/products/luma-006-off.svg",
-    "imageOn": "/products/luma-006-on.svg"
+    "imageOff": "/products/sol-edison-off.png",
+    "imageOn": "/products/sol-edison-on.png"
   },
   {
     "id": "luma-007",
@@ -122,8 +122,8 @@
     },
     "rating": 4.7,
     "reviewsCount": 36,
-    "imageOff": "/products/luma-007-off.svg",
-    "imageOn": "/products/luma-007-on.svg"
+    "imageOff": "/products/vera-off.png",
+    "imageOn": "/products/vera-on.png"
   },
   {
     "id": "luma-008",
@@ -140,8 +140,8 @@
     },
     "rating": 4.8,
     "reviewsCount": 39,
-    "imageOff": "/products/luma-008-off.svg",
-    "imageOn": "/products/luma-008-on.svg"
+    "imageOff": "/products/prism-off.png",
+    "imageOn": "/products/prism-on.png"
   },
   {
     "id": "luma-009",
@@ -158,8 +158,8 @@
     },
     "rating": 4.8,
     "reviewsCount": 42,
-    "imageOff": "/products/luma-009-off.svg",
-    "imageOn": "/products/luma-009-on.svg"
+    "imageOff": "/products/aura-off.png",
+    "imageOn": "/products/aura-on.png"
   },
   {
     "id": "luma-010",
@@ -176,8 +176,8 @@
     },
     "rating": 4.9,
     "reviewsCount": 45,
-    "imageOff": "/products/luma-010-off.svg",
-    "imageOn": "/products/luma-010-on.svg"
+    "imageOff": "/products/cove-off.png",
+    "imageOn": "/products/cove-on.png"
   },
   {
     "id": "luma-011",
@@ -194,8 +194,8 @@
     },
     "rating": 4.6,
     "reviewsCount": 48,
-    "imageOff": "/products/luma-011-off.svg",
-    "imageOn": "/products/luma-011-on.svg"
+    "imageOff": "/products/arco-off.png",
+    "imageOn": "/products/arco-on.png"
   },
   {
     "id": "luma-012",
@@ -212,8 +212,8 @@
     },
     "rating": 4.7,
     "reviewsCount": 51,
-    "imageOff": "/products/luma-012-off.svg",
-    "imageOn": "/products/luma-012-on.svg"
+    "imageOff": "/products/bell-off.png",
+    "imageOn": "/products/bell-on.png"
   },
   {
     "id": "luma-013",
@@ -230,8 +230,8 @@
     },
     "rating": 4.8,
     "reviewsCount": 54,
-    "imageOff": "/products/luma-013-off.svg",
-    "imageOn": "/products/luma-013-on.svg"
+    "imageOff": "/products/totem-off.png",
+    "imageOn": "/products/totem-on.png"
   },
   {
     "id": "luma-014",
@@ -248,8 +248,8 @@
     },
     "rating": 4.8,
     "reviewsCount": 57,
-    "imageOff": "/products/luma-014-off.svg",
-    "imageOn": "/products/luma-014-on.svg"
+    "imageOff": "/products/nova-off.png",
+    "imageOn": "/products/nova-on.png"
   },
   {
     "id": "luma-015",
@@ -266,8 +266,8 @@
     },
     "rating": 4.9,
     "reviewsCount": 60,
-    "imageOff": "/products/luma-015-off.svg",
-    "imageOn": "/products/luma-015-on.svg"
+    "imageOff": "/products/axis-off.png",
+    "imageOn": "/products/axis-on.png"
   },
   {
     "id": "luma-016",
@@ -284,8 +284,8 @@
     },
     "rating": 4.6,
     "reviewsCount": 63,
-    "imageOff": "/products/luma-016-off.svg",
-    "imageOn": "/products/luma-016-on.svg"
+    "imageOff": "/products/filament-smoke-off.png",
+    "imageOn": "/products/filament-smoke-on.png"
   },
   {
     "id": "luma-017",
@@ -302,8 +302,8 @@
     },
     "rating": 4.7,
     "reviewsCount": 66,
-    "imageOff": "/products/luma-017-off.svg",
-    "imageOn": "/products/luma-017-on.svg"
+    "imageOff": "/products/harbor-off.png",
+    "imageOn": "/products/harbor-on.png"
   },
   {
     "id": "luma-018",
@@ -320,8 +320,8 @@
     },
     "rating": 4.8,
     "reviewsCount": 69,
-    "imageOff": "/products/luma-018-off.svg",
-    "imageOn": "/products/luma-018-on.svg"
+    "imageOff": "/products/celeste-off.png",
+    "imageOn": "/products/celeste-on.png"
   },
   {
     "id": "luma-019",
@@ -338,8 +338,8 @@
     },
     "rating": 4.8,
     "reviewsCount": 72,
-    "imageOff": "/products/luma-019-off.svg",
-    "imageOn": "/products/luma-019-on.svg"
+    "imageOff": "/products/pulse-off.png",
+    "imageOn": "/products/pulse-on.png"
   },
   {
     "id": "luma-020",
@@ -356,7 +356,7 @@
     },
     "rating": 4.9,
     "reviewsCount": 75,
-    "imageOff": "/products/luma-020-off.svg",
-    "imageOn": "/products/luma-020-on.svg"
+    "imageOff": "/products/ribbon-off.png",
+    "imageOn": "/products/ribbon-on.png"
   }
 ]
