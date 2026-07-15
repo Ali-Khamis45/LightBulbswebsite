@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 800 800" role="img" aria-labelledby="title">
+  <title id="title">Totem Tripod Floor Lamp on</title>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="75%"><stop offset="0" stop-color="#d8b67c"/><stop offset=".55" stop-color="#111216"/><stop offset="1" stop-color="#272018"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="16" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .05"/></feComponentTransfer></filter>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <rect width="800" height="800" fill="#000" opacity=".14"/>
+  <ellipse cx="400" cy="690" rx="265" ry="58" fill="#191515" opacity=".5"/>
+  <ellipse cx="400" cy="500" rx="210" ry="85" fill="#f6d49a" opacity=".24" filter="url(#blur)"/><ellipse cx="400" cy="650" rx="120" ry="24" fill="#4c270c"/><rect x="390" y="300" width="20" height="345" rx="10" fill="#6f4a2f"/><path d="M295 235 L505 235 L470 345 Q400 380 330 345 Z" fill="#6f4a2f"/><path d="M330 250 L470 250 L448 330 Q400 352 352 330 Z" fill="#f6d49a" opacity=".78"/><circle cx="400" cy="360" r="42" fill="#f6d49a" filter="url(#softGlow)"/>
+  <rect width="800" height="800" filter="url(#grain)" opacity=".65"/>
+</svg>

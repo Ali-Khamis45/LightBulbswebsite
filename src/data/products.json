@@ -1,0 +1,362 @@
+[
+  {
+    "id": "luma-001",
+    "name": "Asteria Brass Table Lamp",
+    "category": "Table Lamps",
+    "price": 249.99,
+    "description": "Dome-shaded brass task lamp with a stone base and warm downward pool of light.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.6,
+    "reviewsCount": 18,
+    "imageOff": "/products/luma-001-off.svg",
+    "imageOn": "/products/luma-001-on.svg"
+  },
+  {
+    "id": "luma-002",
+    "name": "Nora Opal Globe Pendant",
+    "category": "Pendant Lights",
+    "price": 179.99,
+    "description": "Suspended opal glass globe pendant for soft dining and entryway illumination.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.7,
+    "reviewsCount": 21,
+    "imageOff": "/products/luma-002-off.svg",
+    "imageOn": "/products/luma-002-on.svg"
+  },
+  {
+    "id": "luma-003",
+    "name": "Linea Oak Floor Lamp",
+    "category": "Floor Lamps",
+    "price": 329.0,
+    "description": "Slender oak and linen floor lamp sized for reading corners and lounge seating.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "H 1520mm x W 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.8,
+    "reviewsCount": 24,
+    "imageOff": "/products/luma-003-off.svg",
+    "imageOn": "/products/luma-003-on.svg"
+  },
+  {
+    "id": "luma-004",
+    "name": "Halo Flush Ceiling Light",
+    "category": "Ceiling Lights",
+    "price": 219.0,
+    "description": "Low-profile circular ceiling light with an even opal diffuser.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.8,
+    "reviewsCount": 27,
+    "imageOff": "/products/luma-004-off.svg",
+    "imageOn": "/products/luma-004-on.svg"
+  },
+  {
+    "id": "luma-005",
+    "name": "Mika Black Wall Sconce",
+    "category": "Wall Lights",
+    "price": 149.0,
+    "description": "Matte black up-down wall sconce with crisp architectural light.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.9,
+    "reviewsCount": 30,
+    "imageOff": "/products/luma-005-off.svg",
+    "imageOn": "/products/luma-005-on.svg"
+  },
+  {
+    "id": "luma-006",
+    "name": "Sol Edison Amber Bulb",
+    "category": "LED Bulbs",
+    "price": 32.99,
+    "description": "Vintage amber glass LED bulb with a visible spiral filament.",
+    "specs": {
+      "Material": "Glass, polycarbonate, aluminum",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED bulb",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.6,
+    "reviewsCount": 33,
+    "imageOff": "/products/luma-006-off.svg",
+    "imageOn": "/products/luma-006-on.svg"
+  },
+  {
+    "id": "luma-007",
+    "name": "Vera Outdoor Lantern",
+    "category": "Outdoor Lights",
+    "price": 189.0,
+    "description": "Weather-sealed black lantern with clear glass panels and a candle-style LED.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.7,
+    "reviewsCount": 36,
+    "imageOff": "/products/luma-007-off.svg",
+    "imageOn": "/products/luma-007-on.svg"
+  },
+  {
+    "id": "luma-008",
+    "name": "Prism Crystal Chandelier",
+    "category": "Chandeliers",
+    "price": 1299.0,
+    "description": "Compact crystal chandelier with faceted drops and a polished nickel canopy.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "42W"
+    },
+    "rating": 4.8,
+    "reviewsCount": 39,
+    "imageOff": "/products/luma-008-off.svg",
+    "imageOn": "/products/luma-008-on.svg"
+  },
+  {
+    "id": "luma-009",
+    "name": "Aura Smart Color Bulb",
+    "category": "Smart Lights",
+    "price": 44.99,
+    "description": "RGB smart bulb with tunable white and saturated color scenes.",
+    "specs": {
+      "Material": "Glass, polycarbonate, aluminum",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED bulb",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.8,
+    "reviewsCount": 42,
+    "imageOff": "/products/luma-009-off.svg",
+    "imageOn": "/products/luma-009-on.svg"
+  },
+  {
+    "id": "luma-010",
+    "name": "Cove LED Strip Kit",
+    "category": "LED Strips",
+    "price": 69.99,
+    "description": "Flexible LED strip for shelves, desks, and indirect cove lighting.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "Length 5m",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.9,
+    "reviewsCount": 45,
+    "imageOff": "/products/luma-010-off.svg",
+    "imageOn": "/products/luma-010-on.svg"
+  },
+  {
+    "id": "luma-011",
+    "name": "Arco Marble Desk Lamp",
+    "category": "Table Lamps",
+    "price": 279.0,
+    "description": "Arched desk lamp with a marble base and brushed metal shade.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.6,
+    "reviewsCount": 48,
+    "imageOff": "/products/luma-011-off.svg",
+    "imageOn": "/products/luma-011-on.svg"
+  },
+  {
+    "id": "luma-012",
+    "name": "Bell Linen Pendant",
+    "category": "Pendant Lights",
+    "price": 210.0,
+    "description": "Textured linen bell pendant with a warm residential glow.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.7,
+    "reviewsCount": 51,
+    "imageOff": "/products/luma-012-off.svg",
+    "imageOn": "/products/luma-012-on.svg"
+  },
+  {
+    "id": "luma-013",
+    "name": "Totem Tripod Floor Lamp",
+    "category": "Floor Lamps",
+    "price": 389.0,
+    "description": "Tripod floor lamp with a tapered fabric shade and walnut legs.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "H 1520mm x W 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.8,
+    "reviewsCount": 54,
+    "imageOff": "/products/luma-013-off.svg",
+    "imageOn": "/products/luma-013-on.svg"
+  },
+  {
+    "id": "luma-014",
+    "name": "Nova Disk Ceiling Light",
+    "category": "Ceiling Lights",
+    "price": 259.0,
+    "description": "Floating disk ceiling fixture with a broad luminous face.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.8,
+    "reviewsCount": 57,
+    "imageOff": "/products/luma-014-off.svg",
+    "imageOn": "/products/luma-014-on.svg"
+  },
+  {
+    "id": "luma-015",
+    "name": "Axis Brass Picture Light",
+    "category": "Wall Lights",
+    "price": 169.0,
+    "description": "Slim brass picture light for art walls, shelves, and headboards.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.9,
+    "reviewsCount": 60,
+    "imageOff": "/products/luma-015-off.svg",
+    "imageOn": "/products/luma-015-on.svg"
+  },
+  {
+    "id": "luma-016",
+    "name": "Filament Smoke Globe",
+    "category": "LED Bulbs",
+    "price": 39.99,
+    "description": "Smoke-tinted globe bulb with a decorative vertical filament.",
+    "specs": {
+      "Material": "Glass, polycarbonate, aluminum",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED bulb",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.6,
+    "reviewsCount": 63,
+    "imageOff": "/products/luma-016-off.svg",
+    "imageOn": "/products/luma-016-on.svg"
+  },
+  {
+    "id": "luma-017",
+    "name": "Harbor Path Bollard",
+    "category": "Outdoor Lights",
+    "price": 229.0,
+    "description": "Short black bollard light for paths, patios, and garden edges.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.7,
+    "reviewsCount": 66,
+    "imageOff": "/products/luma-017-off.svg",
+    "imageOn": "/products/luma-017-on.svg"
+  },
+  {
+    "id": "luma-018",
+    "name": "Celeste Ring Chandelier",
+    "category": "Chandeliers",
+    "price": 1599.0,
+    "description": "Modern suspended ring chandelier with a continuous inner glow.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "42W"
+    },
+    "rating": 4.8,
+    "reviewsCount": 69,
+    "imageOff": "/products/luma-018-off.svg",
+    "imageOn": "/products/luma-018-on.svg"
+  },
+  {
+    "id": "luma-019",
+    "name": "Pulse Portable Smart Lamp",
+    "category": "Smart Lights",
+    "price": 89.99,
+    "description": "Rechargeable smart lamp with a rounded diffuser and app-controlled scenes.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "W 320mm x H 420mm",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.8,
+    "reviewsCount": 72,
+    "imageOff": "/products/luma-019-off.svg",
+    "imageOn": "/products/luma-019-on.svg"
+  },
+  {
+    "id": "luma-020",
+    "name": "Ribbon Neon Flex",
+    "category": "LED Strips",
+    "price": 119.0,
+    "description": "Bendable neon-style LED ribbon for continuous graphic accent lighting.",
+    "specs": {
+      "Material": "Powder-coated metal, diffuser, electrical hardware",
+      "Dimensions": "Length 5m",
+      "Light Source": "Integrated LED module",
+      "Dimmable": "Yes",
+      "Wattage": "8W"
+    },
+    "rating": 4.9,
+    "reviewsCount": 75,
+    "imageOff": "/products/luma-020-off.svg",
+    "imageOn": "/products/luma-020-on.svg"
+  }
+]

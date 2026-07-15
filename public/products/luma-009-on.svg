@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 800 800" role="img" aria-labelledby="title">
+  <title id="title">Aura Smart Color Bulb on</title>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="75%"><stop offset="0" stop-color="#815ee1"/><stop offset=".55" stop-color="#111216"/><stop offset="1" stop-color="#272018"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="16" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .05"/></feComponentTransfer></filter>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <rect width="800" height="800" fill="#000" opacity=".14"/>
+  <ellipse cx="400" cy="690" rx="265" ry="58" fill="#191515" opacity=".5"/>
+  <ellipse cx="400" cy="500" rx="210" ry="85" fill="#9f7cff" opacity=".24" filter="url(#blur)"/><path d="M320 300 Q320 195 400 195 Q480 195 480 300 Q480 368 430 408 L370 408 Q320 368 320 300 Z" fill="#9f7cff" opacity=".9" filter="url(#softGlow)"/><rect x="358" y="408" width="84" height="76" rx="18" fill="#cfcfcf"/><circle cx="400" cy="305" r="38" fill="#fff" opacity=".48"/>
+  <rect width="800" height="800" filter="url(#grain)" opacity=".65"/>
+</svg>

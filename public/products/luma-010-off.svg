@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 800 800" role="img" aria-labelledby="title">
+  <title id="title">Cove LED Strip Kit off</title>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="35%" r="75%"><stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#f8f4ed"/><stop offset="1" stop-color="#e8ded0"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="16" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .05"/></feComponentTransfer></filter>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <rect width="800" height="800" fill="#000" opacity="0"/>
+  <ellipse cx="400" cy="690" rx="265" ry="58" fill="#ded2c0" opacity=".95"/>
+  <path d="M185 415 C270 310 350 510 435 405 S585 340 640 450" fill="none" stroke="#f3f1e8" stroke-width="38" stroke-linecap="round" /><path d="M185 415 C270 310 350 510 435 405 S585 340 640 450" fill="none" stroke="#d0cec5" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+  <rect width="800" height="800" filter="url(#grain)" opacity=".35"/>
+</svg>
